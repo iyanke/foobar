@@ -1,0 +1,5 @@
+sharedIndex:
+  project:
+    - url: http://unit-1413.labs.intellij.net:8102/repository/intellij-shared-indexes/Foobar_Build/project/teamcity
+      authParams:
+        type: permanent-token
